@@ -1,0 +1,10 @@
+14 12
+10 Dhaka
+10 USA
+10 Canada
+12 Dhaka
+12 Mexico
+11 England
+10 London
+15 ready-to-prints
+13

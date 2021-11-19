@@ -1,0 +1,41 @@
+//Md Rakibul Hasan pp1_6095
+
+HANDOUT 2 and PrP ADHERED; NO BUGS TO REPORT
+
+Source Code: Myclass_6095.java
+Compiler Used: Java 17.0.1
+
+Sample Input:
+
+14 12
+10 Dhaka
+10 USA
+10 Canada
+12 Dhaka
+12 Mexico
+11 England
+10 London
+15 ready-to-prints
+13
+
+java Myclass_6095.java Input.txt
+
+Output:
+
+Dhaka found at slot 3
+Mexico not found
+England not found
+A: Dhaka\USA\Canada\London\
+T
+0:
+1:
+2: 10
+3: 0
+4: 6
+5: 17
+6:
+7:
+8:
+9:
+10:
+11:
